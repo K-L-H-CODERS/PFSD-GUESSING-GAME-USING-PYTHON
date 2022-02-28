@@ -1,2 +1,2 @@
 # PFSD Guessing Game
-its an simple fun and esay game to play
+Its an simple fun and esay game to play
